@@ -1,0 +1,30 @@
+<!DOCTYPE Html>
+<html lang="en">
+    <head>
+        <title>
+            
+            Activity
+            
+        </title><link href="style.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <h1>Welcome to my class.</h1>
+        <h2>The things we will know in this class.</h2>
+        <ul>
+            <li>learning</li>
+            <li>applying</li>
+            <li>practicing</li>
+            <li>Knowing new things</li>
+            <li>searching</li>
+            <p>
+                This is the online platform for learning new Coding languages.
+            </p>
+            <p>
+               Miss Sneha theaches us there coding.
+            </p>
+            <a href=#>"Join with us."</a>
+            <a href=#>"Invite other friends"</a>
+            <a href=#>"Learn with us."</a>
+        </ul>
+    </body>
+</html>
